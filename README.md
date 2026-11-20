@@ -695,3 +695,8 @@ Built as a portfolio project to explore modern frontend development, API-driven 
 Consider starring the repository and following the project as DevPulse continues to evolve.
 
 DevPulse — Turn GitHub activity into developer intelligence.
+
+
+##codesential integration test
+testing github pull request integration
+
